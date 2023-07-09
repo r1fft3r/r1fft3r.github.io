@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Matias Diaz Pinilla, estudiante de Ingeniería en Ciberseguridad y CTF player.
+
+Preparándome para la certificación **PNPT** de TCM Security, enfocándome en Pentesting de Directorio Activo y auditoría en entornos Windows.
