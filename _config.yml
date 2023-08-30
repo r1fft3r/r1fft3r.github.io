@@ -20,7 +20,7 @@ timezone: America/Santiago
 
 title: WR1T3-UPS # the main title
 
-tagline: Resolución de máquinas de Hack The Box # it will display as the sub-title
+tagline: Resolución de máquinas de Hack The Box y Blog personal # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   
@@ -45,7 +45,7 @@ social:
     - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
 

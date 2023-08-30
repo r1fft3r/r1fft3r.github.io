@@ -4,6 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Matias Diaz Pinilla, estudiante de Ingeniería en Ciberseguridad y CTF player.
+Matias Diaz Pinilla
 
-Preparándome para la certificación **PNPT** de TCM Security, enfocándome en Pentesting de Directorio Activo y auditoría en entornos Windows.
+Joven especializado en el Pentesting en entornos empresariales por **TCM Security** (Practical Network Penetration Tester), futuro Ingeniero en Ciberseguridad por **AIEP** y entusiasta de las plataformas de CTF (HackTheBox/TryHackMe) así como de la creación de contenido y difusión de este mundo.
