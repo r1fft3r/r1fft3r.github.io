@@ -4,7 +4,7 @@ date: 2023-08-30 15:31:00 +/-TTTT
 categories: [Review]
 tags: [blog, certification]     # TAG names should always be lowercase
 img_path: /assets/PNPTRESOURCES/
-image: Badge.png
+image: badge.png
 ---
 
 Hoy 30 de Agosto del 2023, después de 5 meses de estudio (compaginándolo con mis estudios universitarios), 1 semana de examen  y un intento fallido, completé mi certificación como **Practical Network Penetration Tester** por la empresa **TCM Security**.
