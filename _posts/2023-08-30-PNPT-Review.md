@@ -21,7 +21,7 @@ Los estudiantes tendrán 5 días completos para completar el **Pentest** y 2 dí
 
 Para recibir la certificación el estudiante deberá:
 * Realizar **Open-Source Intelligence (OSINT)** para recopilar información sobre cómo atacar apropiadamente la red.
-* Demostrar sus habilidades de explotación en **Active Directory** (Directorio Activo) para realizar **Evasión de Antivirus**, movimientos de red **laterales** y **verticales** y, en última instancia, comprometer el **Domain Controller** (Controlador de Dominio) del examen.
+* Demostrar sus habilidades de explotación en **Active Directory** (Directorio Activo) para realizar **Evasión de Antivirus**, movimientos de red **laterales** (pivoting) y **verticales** y, en última instancia, comprometer el **Domain Controller** (Controlador de Dominio) del examen.
 * Redactar un informe **detallado y profesional.**
 * Realizar una charla de 15 minutos presentando el informe en frente de los asesores de **TCM Security**.
 
@@ -45,7 +45,77 @@ Esta opción está a **$399 dólares** ($340,071 CLP) que está a la par que la 
 
 ## Mi Experiencia
 
+> Por temas de confidencialidad del examen, no se pueden entregar detalles especificos del entorno, por lo que mi experiencia **solo cuenta con aspectos generales de lo que experimenté durante la certificación.**
+{: .prompt-info}
+
+Compré el **Voucher+Training** el 03 de Marzo, de inmediato me puse a estudiar el contenido completando uno por uno cada curso que venia en el entrenamiento, tomando notas y poniendo en práctica lo que aprendia a medida que avanzaba.
+
+Entonces llegó el 01 de Agosto, dia en el que salí de vacaciones de la universidad y tenía todo el tiempo disponible y la confianza para enfocarme solamente en rendir el examen y aprobar a la primera (cosa que no resultó como esperaba).
+
 ### Primer Fracaso
+Empecé con el primer día de examen, en el que pude ver la modalidad del mismo así como un primer acercamiento a lo que era un **pentest real**, donde tienes que enumerar todo lo que encuentres a la vista y tener un pensamiento crítico y lateral bien formado.
+
+Una vez finalizado el primer día, ya tenía una idea de lo que podía hacer con la información que habia recolectado y avanzar en mi camino a comprometer la empresa a la que me enfrentaba.
+
+Pero mis esperanzas se fueron de a poco a media que avanzaban las horas y no podía encontrar nada de utilidad, de la misma forma avanzaron los días hasta que llegó el último día de examen en el que seguía en el mismo punto que el día Nº2, logrando llegar a la **2/5 parte del examen**:
+* OSINT -> Completado!
+* External Pentest -> Hasta aquí llegué :(
+* Internal Pentest
+* Reporte
+* Entrevista
+
+Con la decepción por detrás, escribí mi informe con lo que encontré, recopilando todo lo que hice para poder recibir alguna pista que me ayudara en mi segundo y último intento.
+
 ### Segunda Victoria
+Luego de 1 semana de descanso y mentalizándome para lo que sería mi segunda oportunidad en el examen, empecé el 19 de Agosto desde cero, realizando todo lo que hice la vez anterior, pero con otro punto de vista siguiendo los consejos que me dieron en la pista del intento anterior.
+
+Esto me llevó a poder pasar la parte en la que me habia atascado aproximadamente 30 min después de que inicié el examen.
+
+Con la esperanza y las ganas de demostrar todo lo que habia aprendido, empecé a completar cada parte del examen y a **disfrutar de la experiencia que brinda la certificación** (que es lo más importante).
+
+Al llegar al 3er día del examen ya habia completado los siguientes puntos:
+* OSINT -> Completado!
+* External Pentest -> Completado!
+* Internal Pentest -> Aquí estaba :)
+* Reporte
+* Entrevista
+
+Instancia en la que me vi atascado nuevamente, pero esta vez en la red interna de la organización, después de muchos intentos y estar día y medio tratando de cambiar la mentalidad y mirar el problema de otra manera, pude conseguirlo y avanzar hasta comprometer el **Domain Controller** de la empresa y terminar mi periodo de examen satisfactoriamente.
+
+Mientras pasaban los dias iba documentando todo lo que encontraba, de esta manera, iba avanzando en el reporte a medida que completaba los puntos del examen.
+
+Luego de terminar el reporte y tener una entrevista de 15 minutos en inglés, pude pasar el examen y orgullosamente conseguir la certificación como **Practical Network Penetration Tester**.
+![](PNPTCERT.png)
 
 ## Tips y consejos
+
+Algunos consejos que puedo compartir para las personas que quieren afrontar esta certificación son:
+> **No la trates como un CTF o uná máquina de HackTheBox**
+{: .prompt-tip}
+
+Si bien la mejor manera de pulir esas skills de hacking y poder ganar soltura es mediante plataformas de CTF, esto no va a ser suficiente para lograr pasar la certificación, ya que como se detalla en puntos anteriores, este examen tiene la particularidad de ser basado en un **"entorno real"**, donde lo que prima es la **metodología de trabajo** (que se enseña en los cursos).
+
+> **Toma descansos**
+{: .prompt-tip}
+
+Tienes 5 días completos para poder comprometer el dominio, **no te sobre exijas**, esto solo será contraproducente para tu rendimiento, duerme bien, sal a distraerte y regresa con una mentalidad diferente.
+
+> **Recursos externos:**
+{: .prompt-tip}
+
+Los cursos que entrega la certificación son más que suficientes para aprobarla, pero si quieres reforzar lo que aprendiste, aquí hay una lista de recursos que me sirvieron para prepararme aún más para la certificación:
+    * Máquinas fáciles/medias de Active Directory en HackTheBox.
+    * Máquina Wreath en TryHackMe (Pivoting)
+    * [How to Not Suck at Reporting (or How to Write Great Pentesting Reports) (Reporte)](https://www.blackhillsinfosec.com/how-to-not-suck-at-reporting-or-how-to-write-great-pentesting-reports/)
+    * [[Attack]tive Directory: Compromising a Network in 20 Minutes Through Active Directory (Charla)](https://www.youtube.com/watch?v=MIt-tIjMr08)
+
+> **Disfruta de la experiencia**
+{: .prompt-tip}
+
+Solo eso, disfruta, aprende, diviértete.
+
+## Conclusiones
+
+A pesar de que es una certificación que no es tan reconocida como otras en su campo (OSCP/OSWE/CEH), entrega al estudiante una experiencia **lo más realista posible**, junto con una estabilidad en el entorno muy sólida y un equipo de soporte increiblemente rápido para ayudarte a responder cualquier duda o consulta.
+
+Aprovecha cada día del examen, mentalizate que estas realizando un pentest real y disfruta de la experiencia de poder comprometer un entorno empresarial, realizar un informe profesional y tener una charla cara a cara con el cliente para presentar tus hallazgos y la forma de solucionarlos.
