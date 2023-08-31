@@ -100,7 +100,7 @@ Si bien la mejor manera de pulir esas skills de hacking y poder ganar soltura es
 
 Tienes 5 días completos para poder comprometer el dominio, **no te sobre exijas**, esto solo será contraproducente para tu rendimiento, duerme bien, sal a distraerte y regresa con una mentalidad diferente.
 
-> **Recursos externos:**
+> **Recursos externos**
 {: .prompt-tip}
 
 Los cursos que entrega la certificación son más que suficientes para aprobarla, pero si quieres reforzar lo que aprendiste, aquí hay una lista de recursos que me sirvieron para prepararme aún más para la certificación:
