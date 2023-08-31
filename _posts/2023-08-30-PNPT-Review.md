@@ -104,10 +104,11 @@ Tienes 5 días completos para poder comprometer el dominio, **no te sobre exijas
 {: .prompt-tip}
 
 Los cursos que entrega la certificación son más que suficientes para aprobarla, pero si quieres reforzar lo que aprendiste, aquí hay una lista de recursos que me sirvieron para prepararme aún más para la certificación:
-    * Máquinas fáciles/medias de Active Directory en HackTheBox.
-    * Máquina Wreath en TryHackMe (Pivoting)
-    * [How to Not Suck at Reporting (or How to Write Great Pentesting Reports) (Reporte)](https://www.blackhillsinfosec.com/how-to-not-suck-at-reporting-or-how-to-write-great-pentesting-reports/)
-    * [[Attack]tive Directory: Compromising a Network in 20 Minutes Through Active Directory (Charla)](https://www.youtube.com/watch?v=MIt-tIjMr08)
+
+* Máquinas fáciles/medias de Active Directory en HackTheBox.
+* Máquina Wreath en TryHackMe (Pivoting)
+* [How to Not Suck at Reporting (or How to Write Great Pentesting Reports) (Reporte)](https://www.blackhillsinfosec.com/how-to-not-suck-at-reporting-or-how-to-write-great-pentesting-reports/)
+* [[Attack]tive Directory: Compromising a Network in 20 Minutes Through Active Directory (Charla)](https://www.youtube.com/watch?v=MIt-tIjMr08)
 
 > **Disfruta de la experiencia**
 {: .prompt-tip}
