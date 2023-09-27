@@ -20,7 +20,7 @@ timezone: America/Santiago
 
 title: WR1T3-UPS # the main title
 
-tagline: Resolución de máquinas de Hack The Box y Blog personal # it will display as the sub-title
+tagline: Resolución de máquinas/retos de Hack The Box y CyberDefenders - Blog personal # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   

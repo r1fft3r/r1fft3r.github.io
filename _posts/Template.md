@@ -7,7 +7,7 @@ img_path:
 image: 
 ---
 
-Máquina Windows de categoría fácil con:
+Máquina Windows de categoría fácil con los siguientes temas:
 - Enumeración SMB
 
 ## **Enumeración**
