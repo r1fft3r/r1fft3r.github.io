@@ -7,7 +7,7 @@ img_path: /assets/CDRESOURCES/GRABTHEPHISHER/
 image: GrabThePhisher.jpg
 ---
 
-> Este es un reto de la plataforma de entrenamiento para Blue Team, [CyberDefenders](cyberdefenders.org).
+> Este es un reto de la plataforma de entrenamiento para Blue Team, [CyberDefenders](https://cyberdefenders.org).
 {: .prompt-tip}
 
 ## Escenario
