@@ -23,21 +23,21 @@ Habiendo proporcionado el **kit de phishing**, se le pide a usted, como SOC Anal
 ### P1 - ¿Qué wallet se utiliza para pedir la "seed phrase"?
 ![](Pasted image 20230928215250.png)
 
-Si vemos los directorios dentro de **"pankewk"** nos encontramos con uno llamado **"metamask"**, nombre de una extensión para navegadores que sirve como **wallet** para interactuar con blockchains.
+Si vemos los directorios dentro de **"pankewk"** nos encontramos con uno llamado **me\*\*\*\*\*\***, nombre de una extensión para navegadores que sirve como **wallet** para interactuar con blockchains.
 
 ### P2 - ¿Cuál es el nombre del archivo que contiene el código para el kit de phishing?
 
-Dentro de la misma carpeta podemos encontrar una carpeta y dos archivos, uno de ellos llamado **"metamask.php"**, que contiene el código del **kit**.
+Dentro de la misma carpeta podemos encontrar una carpeta y dos archivos, uno de ellos llamado **me\*\*\*\*\*\*.\*\*\***, que contiene el código del **kit**.
  
 ### P3 - ¿En que lenguaje está escrito el kit?
 
 ![](Pasted image 20230928221321.png)
-Analizando el código y la extensión del archivo, el **kit** se encuentra programado en PHP.
+Analizando el código y la extensión del archivo, el **kit** se encuentra programado en P**.
 
 ### P4 - ¿Qué servicio usa el kit para extraer la información de la máquina victima?
 
 ![](Pasted image 20230928221940.png)
-En la primera línea del archivo se puede observar que realiza una solicitud a una API en `http://api.sypexgeo.net/json/` con la **dirección IP** del cliente. De esta manera consigue obtener la geolocalización de la victima.
+En la primera línea del archivo se puede observar que realiza una solicitud a una API en `http://api.sy******.net/json/` con la **dirección IP** del cliente. De esta manera consigue obtener la geolocalización de la victima.
 
 ### P5 - ¿Cuantas "seed phrases" hay recolectadas?
 
@@ -50,12 +50,12 @@ Leyendo el archivo `log.txt` vemos un total de 36 palabras, como las **"seed phr
 ### P6 - Escribe la "seed phrase" del incidente de phishing más reciente
 
 ![](Pasted image 20230928223306.png)
-La **"seed phrase"** más reciente sería `"father also recycle embody balance concert mechanic believe owner pair muffin hockey"`.
+La **"seed phrase"** más reciente sería `"fa**** al** re***** em**** ba***** co***** me****** be***** ow*** pa** mu**** ho****"`.
 
 ### P7 - ¿Qué medio se utilizó para el volcado de credenciales (Credential Dumping)?
 
 ![](Pasted image 20230929023103.png)
-En la línea 34 del código se utiliza la API de `Telegram` para enviar la data almacenada en la variable `$message`.
+En la línea 34 del código se utiliza la API de `Te******` para enviar la data almacenada en la variable `$message`.
 
 ### P8 - ¿Cuál es el token del canal?
 
@@ -79,20 +79,21 @@ Este es un pequeño regalo para mis hermanos,
 Todo lo mejor con su suerte,
 
 Saludos, 
-j1j1b1s@m3r0
+j1*****@m3**
 ```
 
 ### P11 - ¿Cuál es el nombre completo del "Phish Actor"?
 
-Ya que tenemos el **ID** del atacante junto con la API de telegram, podemos realizar una consulta con el siguiente comando:
+Ya que tenemos el **ID** del atacante junto con la API de te******, podemos realizar una consulta con el siguiente comando:
 
 ```bash
-curl -s -X GET https://api.telegram.org/bot5457463144:AAG8t4k7e2ew3tTi0IBShcWbSia0Irvxm10/getChat?chat_id=5442785564 | jq
+curl -s -X GET https://api.te******.org/bot<TOKEN>/getChat?chat_id=<ID> | jq
 ```
+
 ![](Pasted image 20230929025008.png)
 
 ### P12 - ¿Cuál es el nombre de usuario del "Phish Actor"?
 
-El nombre de usuario sería `pumpkinboii`.
+El nombre de usuario sería `pu*********`.
 
 ![](GrabThePhisher2.png)
