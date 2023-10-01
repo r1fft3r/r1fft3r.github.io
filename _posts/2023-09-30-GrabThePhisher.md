@@ -7,6 +7,9 @@ img_path: /assets/CDRESOURCES/GRABTHEPHISHER/
 image: GrabThePhisher.jpg
 ---
 
+> Este es un reto de la plataforma de entrenamiento para Blue Team, [CyberDefenders](cyberdefenders.org).
+{: .prompt-tip}
+
 ## Escenario
 Un atacante comprometió un servidor y se hizo pasar por [https://pancakeswap.finance/](https://pancakeswap.finance/), un exchange descentralizado nativo de la cadena BNB, para alojar un **kit de phishing** en **https://apankewk.soup.xyz/mainpage.php**. El atacante lo configuró como un directorio abierto con el nombre de archivo **"pankewk.zip"**. 
 
