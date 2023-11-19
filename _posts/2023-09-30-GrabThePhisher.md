@@ -96,4 +96,4 @@ curl -s -X GET https://api.te******.org/bot<TOKEN>/getChat?chat_id=<ID> | jq
 
 El nombre de usuario sería `pu*********`.
 
-![](GrabThePhisher2.png)
+![test](GrabThePhisher2.png)
