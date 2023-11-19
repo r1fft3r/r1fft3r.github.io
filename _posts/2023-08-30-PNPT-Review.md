@@ -85,7 +85,7 @@ Instancia en la que me vi atascado nuevamente, pero esta vez en la red interna d
 Mientras pasaban los dias iba documentando todo lo que encontraba, de esta manera, iba avanzando en el reporte a medida que completaba los puntos del examen.
 
 Luego de terminar el reporte y tener una entrevista de 15 minutos en inglés, pude pasar el examen y orgullosamente conseguir la certificación como **Practical Network Penetration Tester**.
-![](PNPTCERT.png)
+![cert](PNPTCERT.png)
 
 ## Tips y consejos
 
